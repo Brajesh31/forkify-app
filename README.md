@@ -11,3 +11,5 @@ Using Javascript, css, html
 ## Screenshots
 
 ![App Screenshot](forkify-app-screen.jpeg)
+
+Last updated: 2026-10-13 15:55 UTC
