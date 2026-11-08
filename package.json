@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
-    "parcel": "^2.8.3"
+    "parcel": "^2.16.4"
   },
   "dependencies": {
     "core-js": "^3.28.0",
